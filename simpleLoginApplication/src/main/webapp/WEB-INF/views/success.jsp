@@ -12,7 +12,7 @@
 	<div class="container">
 		<nav class="navbar navbar-dark bg-dark fixed-top">
 			<div class="container">
-				<a href="#" class="navbar-brand">WELCOME PAGE</a>
+				<a href="#" class="navbar-brand">Welcome Page</a>
 			</div>
 		</nav>
 	</div>
@@ -32,7 +32,7 @@
 	<div class="container">
 		<nav class="navbar navbar-dark bg-dark fixed-bottom">
 			<div class="container">
-				<a href="#" class="navbar-brand">COPYRIGHT SIMPLE REGISTRATION
+				<a href="#" class="navbar-brand">Copyright
 					&copy; 2020</a>
 			</div>
 		</nav>

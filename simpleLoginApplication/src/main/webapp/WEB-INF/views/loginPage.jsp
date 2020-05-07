@@ -15,7 +15,7 @@
 	<div class="container">
 		<nav class="navbar navbar-dark navbar-expand-sm bg-dark fixed-top">
 			<div class="container">
-				<a href="#" class="navbar-brand">WELCOME SIMPLE LOGIN PAGE</a>
+				<a href="#" class="navbar-brand">Welcome To Login Page</a>
 			</div>
 		</nav>
 	</div>
@@ -39,9 +39,6 @@
 				<div class="col">
 					<button type="submit" class="btn btn-success btn-block">Login</button>
 				</div>
-				<div class="col">
-					<button type="reset" class="btn btn-warning btn-block">Reset</button>
-				</div>
 			</div>
 			<div class="form-row mt-3">
 				<div class="col">
@@ -54,7 +51,7 @@
 	<div class="container">
 		<nav class="navbar navbar-dark bg-dark fixed-bottom">
 			<div class="container">
-				<a href="#" class="navbar-brand">COPYRIGHT SIMPLE LOGIN &copy;
+				<a href="#" class="navbar-brand">Copyright &copy;
 					2020</a>
 			</div>
 		</nav>

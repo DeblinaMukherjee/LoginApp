@@ -55,7 +55,7 @@ public class HelloController {
 				String str = "<div class=\"alert alert-danger alert-dismissible text-center\">\r\n"
 						+ "			<button class=\"close\" type=\"button\" data-dismiss=\"alert\">\r\n"
 						+ "				<span>&times;</span>\r\n" + "			</button>\r\n"
-						+ "			<strong>User Already Registed</strong> with this Email-ID\r\n" + "		</div>";
+						+ "			<strong>Already Registed</strong> with this Email-ID\r\n" + "		</div>";
 				mv.addObject("sameEmail", str);
 				mv.setViewName("register");
 				return mv;
@@ -66,7 +66,7 @@ public class HelloController {
 			String str = "<div class=\"alert alert-success alert-dismissible text-center\">\r\n"
 					+ "			<button class=\"close\" type=\"button\" data-dismiss=\"alert\">\r\n"
 					+ "				<span>&times;</span>\r\n" + "			</button>\r\n"
-					+ "			<strong>Registration Successful!</strong> Now Try To Login\r\n" + "		</div>";
+					+ "			<strong>Registration Successful!</strong>\r\n" + "		</div>";
 			mv.addObject("nowlogin", str);
 			mv.setViewName("register");
 			return mv;

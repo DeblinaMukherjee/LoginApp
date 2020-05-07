@@ -13,8 +13,7 @@
 	<!-- <div class="container"> -->
 		<nav class="navbar navbar-expand-lg navbar-dark bg-dark mb-4">
 			<div class="container">
-				<a href="/" class="navbar-brand navbar-brand-sm">WELCOME SIMPLE REGISTRATION
-					PAGE</a>
+				<a href="/" class="navbar-brand navbar-brand-sm">Welcome To Login Page</a>
 				<button class="navbar-toggler" data-toggle="collapse"
 					data-target="#navbarNav">
 					<span class="navbar-toggler-icon"></span>
@@ -59,7 +58,7 @@
 	<div class="container">
 		<nav class="navbar navbar-dark bg-dark fixed-bottom">
 			<div class="container">
-				<a href="#" class="navbar-brand">COPYRIGHT SIMPLE REGISTRATION
+				<a href="#" class="navbar-brand">Copyright
 					&copy; 2020</a>
 			</div>
 		</nav>

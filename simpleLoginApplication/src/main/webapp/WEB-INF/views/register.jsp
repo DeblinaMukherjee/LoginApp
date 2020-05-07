@@ -12,8 +12,7 @@
 <body style="background-color: #eee;">
 		<nav class="navbar navbar-dark navbar-expand-lg bg-dark mb-3">
 			<div class="container">
-				<a href="#" class="navbar-brand">WELCOME SIMPLE REGISTRATION
-					PAGE</a>
+				<a href="#" class="navbar-brand">Welcome To Login Page</a>
 				<button class="navbar-toggler" data-toggle="collapse"
 					data-target="#navbarNav">
 					<span class="navbar-toggler-icon"></span>
@@ -54,9 +53,6 @@
 				<div class="col">
 					<button type="submit" class="btn btn-success btn-block">Register</button>
 				</div>
-				<div class="col">
-					<button type="reset" class="btn btn-warning btn-block">Reset</button>
-				</div>
 			</div>
 			<div class="form-row mt-3">
 				<div class="col">
@@ -69,7 +65,7 @@
 	<div class="container">
 		<nav class="navbar navbar-dark bg-dark fixed-bottom">
 			<div class="container">
-				<a href="#" class="navbar-brand">COPYRIGHT SIMPLE REGISTRATION
+				<a href="#" class="navbar-brand">Copyright
 					&copy; 2020</a>
 			</div>
 		</nav>
